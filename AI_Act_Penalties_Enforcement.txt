@@ -1,0 +1,216 @@
+================================================================
+DOCUMENT 5: AI ACT - PENALTIES AND ENFORCEMENT
+Regulation (EU) 2024/1689 - Articles 99 to 101
+Applicable from: August 2026
+================================================================
+
+================================================================
+ARTICLE 99 - PENALTIES FOR OPERATORS
+================================================================
+
+The AI Act establishes a three-tier penalty structure based on severity
+of the violation.
+
+TIER 1 - MAXIMUM PENALTIES: PROHIBITED PRACTICES
+-------------------------------------------------
+Violation: Non-compliance with the prohibition of AI practices under Article 5
+
+Fine: Up to EUR 35,000,000
+OR
+Up to 7% of total worldwide annual turnover of the preceding financial year,
+WHICHEVER IS HIGHER.
+
+Applies to:
+- Deploying any AI system listed as prohibited (Article 5)
+- Using subliminal manipulation techniques
+- Social scoring by public authorities
+- Real-time biometric identification in public spaces without authorisation
+- Biometric categorisation inferring sensitive attributes
+- Emotion recognition in workplace/education without authorisation
+
+TIER 2 - STANDARD PENALTIES: OTHER VIOLATIONS
+----------------------------------------------
+Violation: Non-compliance with any other obligation in the AI Act
+(high-risk obligations, transparency, general-purpose AI rules, etc.)
+
+Fine: Up to EUR 15,000,000
+OR
+Up to 3% of total worldwide annual turnover of the preceding financial year,
+WHICHEVER IS HIGHER.
+
+Applies to:
+- Failure to implement risk management system (Article 9)
+- Failure to apply data governance (Article 10)
+- Missing or incomplete technical documentation (Article 11)
+- Failure to maintain logs (Article 12)
+- Inadequate transparency to deployers (Article 13)
+- Insufficient human oversight measures (Article 14)
+- Inadequate accuracy, robustness, cybersecurity (Article 15)
+- Violations of transparency obligations for chatbots, deepfakes (Art. 50/52)
+- Failure to register in EU database (Article 49)
+
+TIER 3 - REDUCED PENALTIES: FALSE OR MISLEADING INFORMATION
+------------------------------------------------------------
+Violation: Supplying incorrect, incomplete, or misleading information to
+notified bodies or national competent authorities
+
+Fine: Up to EUR 7,500,000
+OR
+Up to 1% of total worldwide annual turnover of the preceding financial year,
+WHICHEVER IS HIGHER.
+
+SPECIAL PROVISION FOR SMEs AND STARTUPS:
+For small and medium enterprises (SMEs), including startups:
+- The fine is the LOWER amount (not the higher of the two thresholds)
+- National authorities must take into account the economic viability
+  and interests of SMEs when determining the fine
+- Penalties must be effective, proportionate, and dissuasive
+
+================================================================
+ARTICLE 100 - PENALTIES ON GENERAL-PURPOSE AI MODEL PROVIDERS
+================================================================
+
+Violation: Non-compliance with obligations specific to general-purpose AI
+model providers (Chapter V of the AI Act)
+
+Fine: Up to EUR 15,000,000
+OR
+Up to 3% of total worldwide annual turnover of the preceding financial year,
+WHICHEVER IS HIGHER.
+
+Applies to:
+- Failure to provide technical documentation to the AI Office
+- Failure to register in the EU database
+- Failure to comply with copyright obligations
+- Failure to publish transparency summary
+- Non-compliance with systemic risk obligations (for very powerful models)
+
+For GENERAL-PURPOSE AI MODELS WITH SYSTEMIC RISK:
+Additional obligations apply, with stricter supervision by the European AI Office.
+
+================================================================
+ARTICLE 101 - PENALTIES ON UNION INSTITUTIONS, BODIES AND AGENCIES
+================================================================
+
+When EU institutions, bodies, offices or agencies act as providers or
+deployers of high-risk AI systems, the European Data Protection Supervisor
+(EDPS) is empowered to impose administrative fines.
+
+Fine range: up to EUR 1,500,000
+
+================================================================
+FACTORS CONSIDERED WHEN SETTING PENALTY AMOUNTS
+================================================================
+
+National competent authorities must consider:
+1. Nature, gravity, and duration of the infringement
+2. Whether the infringement was intentional or negligent
+3. Actions taken to mitigate damage
+4. Degree of responsibility of the operator
+5. Repeated infringements by the same operator
+6. Degree of cooperation with the authority
+7. Any relevant previous infringements
+8. Financial benefits gained or losses avoided
+9. Size and market share of the operator
+10. Any other aggravating or mitigating factor
+
+================================================================
+ENFORCEMENT STRUCTURE
+================================================================
+
+NATIONAL COMPETENT AUTHORITIES (NCA)
+--------------------------------------
+ROLE:
+- Each EU Member State must designate at least one NCA
+- Responsible for supervising and enforcing the AI Act
+- Can conduct market surveillance of AI systems placed on the EU market
+- Can request access to training data, source code, and documentation
+- Can impose administrative fines and corrective measures
+
+POWERS:
+- Order providers/deployers to correct non-compliant AI systems
+- Withdraw or recall non-compliant AI systems from the market
+- Prohibit or restrict use of non-compliant AI systems
+- Impose fines (Articles 99-101)
+- Conduct on-site inspections
+- Request documentary evidence
+
+NOTIFIED BODIES:
+- Accredited third-party conformity assessment bodies
+- Conduct mandatory third-party assessments for certain high-risk systems
+- Issue certificates of conformity
+- Report non-conformities to national authorities
+
+MARKET SURVEILLANCE AUTHORITIES:
+- Oversee AI systems already on the market
+- Can initiate investigations based on complaints or own initiative
+- Cooperate with customs authorities for imported AI systems
+
+EUROPEAN AI OFFICE
+-------------------
+ESTABLISHMENT: Created within the European Commission
+
+MANDATE:
+- Oversee and enforce rules for general-purpose AI models (GPAI)
+- Coordinate with national authorities
+- Maintain EU database of high-risk AI systems
+- Facilitate development of codes of practice
+- Conduct scientific and technical research on AI risks
+- Support the European AI Board
+
+POWERS SPECIFIC TO GENERAL-PURPOSE AI:
+- Request documentation and information from GPAI providers
+- Conduct evaluations of systemic risks
+- Issue warnings and recommendations
+- Impose fines on GPAI providers (Article 100)
+- Cooperate with international bodies
+
+EUROPEAN AI BOARD
+------------------
+COMPOSITION: Representatives of national supervisory authorities +
+European Data Protection Supervisor
+
+ROLE:
+- Advise and assist the Commission and Member States
+- Promote consistent enforcement across EU
+- Issue opinions, recommendations, and guidance
+- Facilitate information exchange between Member States
+- Issue guidelines on implementation of the regulation
+
+================================================================
+COMPLAINT AND REDRESS MECHANISMS
+================================================================
+
+RIGHT TO COMPLAIN:
+- Any natural or legal person may lodge a complaint with a national authority
+- Authorities must process complaints within a reasonable timeframe
+- Complainants must receive a response
+
+RIGHT TO EXPLANATION:
+- Persons subject to decisions made with AI assistance have the right to
+  obtain an explanation from the deployer about the role of the AI system
+
+JUDICIAL REMEDIES:
+- Affected persons have the right to effective judicial remedy against
+  decisions of national authorities
+- No prejudice to existing GDPR rights and remedies
+
+================================================================
+SUMMARY TABLE - PENALTY STRUCTURE
+
+| Violation Type               | Max Fine (EUR) | Max % of Turnover |
+|------------------------------|----------------|-------------------|
+| Prohibited practices (Art.5) | 35,000,000     | 7%                |
+| Other obligations            | 15,000,000     | 3%                |
+| GPAI obligations             | 15,000,000     | 3%                |
+| False information            |  7,500,000     | 1%                |
+| EU institutions (EDPS)       |  1,500,000     | N/A               |
+
+Note: For operators, the HIGHER of the two thresholds applies.
+For SMEs, the LOWER of the two thresholds applies.
+
+================================================================
+Source: Regulation (EU) 2024/1689 of the European Parliament and of the
+Council of 13 June 2024. OJ L, 2024/1689, 12.7.2024.
+ELI: http://data.europa.eu/eli/reg/2024/1689/oj
+================================================================

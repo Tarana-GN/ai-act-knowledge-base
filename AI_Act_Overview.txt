@@ -1,0 +1,98 @@
+================================================================
+DOCUMENT 1: AI ACT OVERVIEW
+Regulation (EU) 2024/1689 - Artificial Intelligence Act
+================================================================
+
+1. WHAT IS THE AI ACT?
+-----------------------
+The EU AI Act (Regulation EU 2024/1689) is the world's first comprehensive
+legal framework for artificial intelligence. Adopted on 13 June 2024 and
+published in the Official Journal on 12 July 2024, it establishes harmonised
+rules for the development, placing on the market, putting into service, and
+use of AI systems in the European Union.
+
+Its core objectives are:
+- Ensure AI systems are safe, transparent, and respect fundamental rights
+- Create a uniform legal framework across the EU internal market
+- Promote trustworthy, human-centric AI
+- Prevent fragmentation of national rules
+- Foster innovation while managing risks
+
+2. WHO DOES IT APPLY TO?
+--------------------------
+The AI Act applies to:
+
+PROVIDERS: Any natural or legal person, public authority, agency or body
+that develops an AI system or a general-purpose AI model and places it on
+the market or puts it into service under their own name or trademark,
+whether for payment or free of charge.
+
+DEPLOYERS: Any natural or legal person, public authority, agency or body
+using an AI system under their authority, except when used in the course of
+a personal non-professional activity.
+
+IMPORTERS: Persons established in the EU that place on the market an AI
+system bearing the name or trademark of a natural or legal person
+established outside the EU.
+
+DISTRIBUTORS: Persons in the supply chain making an AI system available on
+the EU market.
+
+3. TERRITORIAL SCOPE
+---------------------
+The AI Act applies to:
+- Providers established in the EU or a third country if the AI system output
+  is intended to be used in the EU
+- Deployers established or located in the EU
+- Providers and deployers established in third countries when the output
+  produced by their AI systems is used in the EU
+
+EXCLUSIONS from scope:
+- AI systems used exclusively for military, defence, or national security
+- AI systems developed solely for scientific research and development
+- AI systems used by public authorities of third countries under international
+  cooperation agreements (with adequate safeguards)
+- Personal non-professional use
+
+4. IMPLEMENTATION TIMELINE
+----------------------------
+
+ENTRY INTO FORCE: 1 August 2024
+(20 days after publication on 12 July 2024)
+
+AUGUST 2025 (12 months after entry into force):
+- Chapter I (General Provisions) and Chapter II (Prohibited Practices)
+  become applicable
+- Prohibited AI practices (Article 5) are BANNED as of this date
+- Key date for: banning of unacceptable risk AI systems
+
+AUGUST 2026 (24 months after entry into force):
+- The majority of the regulation becomes applicable
+- High-risk AI system obligations (Article 6 + Annex III) apply
+- General-purpose AI model rules apply
+- Governance and market surveillance provisions apply
+- Key date for: compliance obligations for high-risk AI providers and deployers
+
+AUGUST 2027 (36 months after entry into force):
+- Full enforcement including high-risk AI systems embedded in regulated
+  products (Annex I) — e.g. medical devices, machinery, vehicles
+- Key date for: complete enforcement across all product categories
+
+ADDITIONAL SPECIFIC DATE:
+- 2 August 2025: EU AI Office and AI Board operational rules apply
+- 2 August 2026: Codes of practice for general-purpose AI models finalized
+
+5. KEY INSTITUTIONS
+--------------------
+- EUROPEAN AI OFFICE: Central EU body overseeing general-purpose AI models
+  and coordinating enforcement
+- EUROPEAN AI BOARD: Composed of national supervisory authorities, advises
+  on consistent implementation
+- NATIONAL COMPETENT AUTHORITIES: Each Member State designates at least one
+  authority responsible for enforcement
+
+================================================================
+Source: Regulation (EU) 2024/1689 of the European Parliament and of the
+Council of 13 June 2024. OJ L, 2024/1689, 12.7.2024.
+ELI: http://data.europa.eu/eli/reg/2024/1689/oj
+================================================================
